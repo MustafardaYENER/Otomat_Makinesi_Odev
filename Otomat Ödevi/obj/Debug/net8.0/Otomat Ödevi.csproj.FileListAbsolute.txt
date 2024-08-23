@@ -1,0 +1,14 @@
+C:\Users\GURKAN\source\repos\Otomat Ödevi\obj\Debug\net8.0\Otomat Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GURKAN\source\repos\Otomat Ödevi\obj\Debug\net8.0\Otomat Ödevi.AssemblyInfoInputs.cache
+C:\Users\GURKAN\source\repos\Otomat Ödevi\obj\Debug\net8.0\Otomat Ödevi.AssemblyInfo.cs
+C:\Users\GURKAN\source\repos\Otomat Ödevi\obj\Debug\net8.0\Otomat Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\GURKAN\source\repos\Otomat Ödevi\bin\Debug\net8.0\Otomat Ödevi.exe
+C:\Users\GURKAN\source\repos\Otomat Ödevi\bin\Debug\net8.0\Otomat Ödevi.deps.json
+C:\Users\GURKAN\source\repos\Otomat Ödevi\bin\Debug\net8.0\Otomat Ödevi.runtimeconfig.json
+C:\Users\GURKAN\source\repos\Otomat Ödevi\bin\Debug\net8.0\Otomat Ödevi.dll
+C:\Users\GURKAN\source\repos\Otomat Ödevi\bin\Debug\net8.0\Otomat Ödevi.pdb
+C:\Users\GURKAN\source\repos\Otomat Ödevi\obj\Debug\net8.0\Otomat Ödevi.dll
+C:\Users\GURKAN\source\repos\Otomat Ödevi\obj\Debug\net8.0\refint\Otomat Ödevi.dll
+C:\Users\GURKAN\source\repos\Otomat Ödevi\obj\Debug\net8.0\Otomat Ödevi.pdb
+C:\Users\GURKAN\source\repos\Otomat Ödevi\obj\Debug\net8.0\Otomat Ödevi.genruntimeconfig.cache
+C:\Users\GURKAN\source\repos\Otomat Ödevi\obj\Debug\net8.0\ref\Otomat Ödevi.dll
